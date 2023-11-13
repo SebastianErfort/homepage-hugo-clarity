@@ -20,5 +20,5 @@ jobs:
           extended: true
 
       - name: Run Hugo
-        working-directory: website
+        working-directory: ./
         run: hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/"
