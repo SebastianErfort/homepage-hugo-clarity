@@ -4,27 +4,33 @@
   weight = -110
 
 [[main]]
-  name = "Archives"
-  url = "post/rich-content/"
-  weight = -109
-
-# Submenus are done this way: parent -> identifier
-[[main]]
-  name = "Links"
-  identifier = "Links"
+  name = "Resources"
+  identifier = "Resources"
+  url = "resources/"
   weight = -108
 [[main]]
-  parent = "Links"
-  name = "Orcid"
-  url = "https://orcid.org/"
-[[main]]
-  parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
+  parent = "Resources"
+  name = "Hugo"
+  url = "resources/hugo/"
+
+# [[main]]
+#   name = "Archives"
+#   url = "post/rich-content/"
+#   weight = -109
+
+# Submenus are done this way: parent -> identifier
+# [[main]]
+#   name = "Links"
+#   identifier = "Links"
+#   weight = -108
 # [[main]]
 #   parent = "Links"
-#   name = "Twitter"
-#   url = "https://twitter.com/"
+#   name = "Orcid"
+#   url = "https://orcid.org/"
+# [[main]]
+#   parent = "Links"
+#   name = "LinkedIn"
+#   url = "https://www.linkedin.com/"
 
 [[main]]
   name = "About"

@@ -1,9 +1,9 @@
-+++
-title = "About"
-date = "2023-11-12"
-aliases = ["about-me", "contact"]
-author = "Sebastian Erfort"
-+++
+---
+title: "About"
+date: "2023-11-12"
+aliases: ["about-me", "contact"]
+author: "Sebastian Erfort"
+---
 
 I have always had an analytic mind and an affinity for sciences and computers. With a quick grasp, adaptability and ability to establish connections, I enjoy taking on new challenges, evident from repeatedly changing my research subject and field of work. Being open and sociable, I quickly integrate in a new environment. 
 
