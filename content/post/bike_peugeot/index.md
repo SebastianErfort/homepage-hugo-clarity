@@ -5,7 +5,7 @@ categories: cycling
 date: 2023-11-12
 usePageBundles: true
 # featureImage: images/after/full_street.jpg
-# draft: true
+draft: true
 ---
 
 So here I am in my early thirties, buying one of those vintage Peugeot bikes you see all those hipsters riding around on. Am I old enough now to want to feel young again? Am I trying to be cool now after missing out in my twenties?
@@ -24,10 +24,10 @@ On the plus side the frame had few scratches or damage to the paint job, the log
 So much for the first assessment.
 
 {{< gallery >}}
-{{< figure link="/images/bike_peugeot/before/full.jpg" >}} <!-- caption="Full" -->
-{{< figure link="/images/bike_peugeot/before/front.jpg" >}} <!-- caption="Front with logo" -->
-{{< figure link="/images/bike_peugeot/before/frame_peugeot.jpg" >}} <!-- caption="Writing and crank" -->
-{{< figure link="/images/bike_peugeot/before/back_bottleopener.jpg" >}} <!-- caption="Nice little detail" -->
+{{< figure link="/post/bike_peugeot/images/before/full.jpg" >}}
+{{< figure link="/post/bike_peugeot/images/before/front.jpg" >}}
+{{< figure link="/post/bike_peugeot/images/before/frame_peugeot.jpg" >}}
+{{< figure link="/post/bike_peugeot/images/before/back_bottleopener.jpg" >}}
 {{< /gallery >}}
 <!-- {% include gallery layout="half" caption="Before: Brooks saddle and handlebar tape, frame in decent state, crank missing a screw and too much play, bottleopener" %} -->
 
