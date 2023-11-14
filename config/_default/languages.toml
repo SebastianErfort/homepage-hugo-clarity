@@ -1,10 +1,10 @@
 [en]
-  title = "Sebastian's Page"
+  title = "Sebastian's Website"
   LanguageName = "English"
   weight = 1
 
 [de]
-  title = "Sebastians Seite"
+  title = "Sebastians Webseite"
   LanguageName = "Deutsch"
   weight = 2
 
