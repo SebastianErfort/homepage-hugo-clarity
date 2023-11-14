@@ -1,3 +1,8 @@
+---
+title: README Sebastian's Website
+date: 2023-11-14
+---
+
 # Sebastian's Website
 
 Testing Hugo with Clarity theme to create a (GitHub) Pages hosted website.
