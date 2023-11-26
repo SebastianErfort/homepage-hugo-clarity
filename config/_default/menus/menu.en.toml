@@ -1,7 +1,7 @@
-[[main]]
-  name = "Home"
-  url = ""
-  weight = -110
+# [[main]]
+#   name = "Home"
+#   url = ""
+#   weight = -110
 
 [[main]]
   name = "Resources"

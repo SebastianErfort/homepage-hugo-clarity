@@ -9,7 +9,7 @@ usePageBundles: true
 
 So here I am in my early thirties, buying one of those vintage Peugeot bikes you see all those hipsters riding around on. Am I old enough now to want to feel young again? Am I trying to be cool now after missing out in my twenties?
 
-In any case I made a good deal for this fixie, given the state of the frame and the nice saddle, ladies' model or not. I found the bike on Marktplaats, <em>the</em> Dutch website for private sales. I immediatley liked the colour scheme of the light blue frame, combined with the brown saddle and handlebar tape and shiny chrome parts. Just add a bit of white and you got yourself a classic colour palette.
+In any case I made a good deal for this fixie, given the state of the frame and the nice saddle, ladies' model or not. I found the bike on Marktplaats, <em>the</em> Dutch website for private sales. One of the first things I notices is the colour scheme. The light blue frame, combined with the brown saddle and handlebar tape and shiny chrome parts is fantastic. Just add a bit of white and you got yourself a classic colour palette.
 
 <div style="display: flex; justify-content: space-between; width: 100%">
 <div style="width: 25%; text-align: center;">
@@ -29,6 +29,7 @@ So much for the first assessment.
 {{< figure link="/post/bike_peugeot/images/before/frame_peugeot.jpg" >}}
 {{< figure link="/post/bike_peugeot/images/before/back_bottleopener.jpg" >}}
 {{< /gallery >}}
+
 <!-- {% include gallery layout="half" caption="Before: Brooks saddle and handlebar tape, frame in decent state, crank missing a screw and too much play, bottleopener" %} -->
 
 I started out with some cleaning. Take off the handlebar tape and scrub off bits of old adhesive. Take out the seat post and seat, pick out dead spiders and brush off some rust, remove a frayed shoe lace that was used to keep these Brooks saddles in shape. Remove the old tyres and tubes, showering the floor with crumbs of old rubber. Scrub the corroded spokes and polish the rims, brush out the rim bed.
@@ -40,7 +41,7 @@ After some obsessive search for matching parts on ebay and Marktplaats, I found 
 
 Absolutely a fair weather bike, but it turned out a real beauty. The steel rims' structured flanks offer pretty poor braking, bit with decent pads it's not too bad. Then there's the slight paranoia the tyres might pop off any time, old rims are rather shallow.
 
-In a lucky find an Ass Saver with a colourful feather turned out to match the colour scheme perfectly, so at least my but stays dry in case of a surprise rain shower.
+In a lucky find an Ass Saver with a colourful feather turned out to match the colour scheme perfectly, so at least my butt stays dry in case of a surprise rain shower.
 
 [ass saver]: https://ass-savers.com/collections/all/products/asr-feather "Ass Saver Feather Tropical"
 
