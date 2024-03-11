@@ -3,9 +3,9 @@
   LanguageName = "English"
   weight = 1
 
-[de]
-  title = "Sebastians Webseite"
-  LanguageName = "Deutsch"
-  weight = 2
+# [de]
+#   title = "Sebastians Webseite"
+#   LanguageName = "Deutsch"
+#   weight = 2
 
   # tip: assign the default language the lowest Weight
